@@ -197,3 +197,10 @@ $ sudo chmod 755 /home/emil
 $ sudo chmod 755 /home/emil/flaskpi
 ```
 check ip for the webinterface of webapp_raspi.py
+
+## main sources:
+https://pimylifeup.com/raspberry-pi-proxmox/
+https://raspberrytips.com/proxmox-on-raspberry-pi/
+https://getlabsdone.com/how-to-install-ubuntu-server-22-04-on-proxmox/
+https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-22-04
+https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-22-04
